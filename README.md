@@ -11,6 +11,7 @@ This Python script uses Selenium to automatically click all visible **"Add to Li
 ## 🧠 Requirements
 - Python 3.8+
 - Google Chrome
+- Chrome Driver for your version of chrome, found here (https://googlechromelabs.github.io/chrome-for-testing/)
 - Selenium for Python  
   Install it with:
   ```bash
